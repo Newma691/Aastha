@@ -12,4 +12,10 @@
 
 # Proposed Algorithms for Function Regression :
 
+The project proposes two algorithms in fundtional regression setup.
+
+# Check :
+^^Existing model incorporation
+^^Literature survey
+
 
